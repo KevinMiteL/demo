@@ -7,3 +7,4 @@ git add three
 Git tracks changes
 Creating a new branch is quick.
 
+This is my changes new line in dev branch
