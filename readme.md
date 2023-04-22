@@ -6,3 +6,4 @@ git add three
 
 Git tracks changes
 Creating a new branch is quick.
+new branch is quick
