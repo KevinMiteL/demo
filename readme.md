@@ -5,3 +5,4 @@ Git has a mutable index called stage.git add two
 git add three
 
 Git tracks changes
+Creating a new branch is quick.
