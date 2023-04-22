@@ -6,8 +6,4 @@ git add three
 
 Git tracks changes
 Creating a new branch is quick.
-<<<<<<< HEAD
-new branch is quick
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
+
