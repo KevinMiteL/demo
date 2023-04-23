@@ -9,3 +9,4 @@ Creating a new branch is quick.
 
 This is my changes new line in dev branch
 This is michoel create new line in michoel branch
+add new line in master branch
