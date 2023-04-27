@@ -4,4 +4,3 @@ add line in rbl.git
 add new line in locality
 add new Line in older
 add new line in vscode
-add new seven line 
